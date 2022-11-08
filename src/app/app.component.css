@@ -1,0 +1,23 @@
+h1 {
+color: #89cff0;
+text-align: center;
+margin: 60px;
+}
+img {
+    display: flex;
+    margin: 0 auto;
+}
+
+
+div {
+    margin: 0 60px;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+li {
+    margin: 20px 0;
+    font-size: 30px;
+}
